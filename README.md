@@ -7,7 +7,7 @@ SQLAlchemy was used to construct the database, and the Flask web development fra
 
 ## Running the application
 
-The production version of this application can be viewed at (https://www.pekerow.site) and differs from this repository in two ways. Postgresql replaces SQLite as the database engine, and the application is secured by an SSL certificate, thereby enabling the https protocol. The development version of _Item Catalog_ articulated below is for test use only on a local machine running a virtual Ubuntu 22.04 linux box. To get started please proceed as follows:
+The production version of this application can be viewed at https://www.pekerow.site and differs from this repository in two ways. Postgresql replaces SQLite as the database engine, and the application is secured by an SSL certificate, thereby enabling the https protocol. The development version of _Item Catalog_ articulated below is for test use only on a local machine running a virtual Ubuntu 22.04 linux box. To get started please proceed as follows:
 
 * You will need a shell window. If you're on a Mac this is the command line utility. If on Windows 7 or later you will need to download [Git BASH](https://gitforwindows.org/).
 * In the shell you will run the a virtual Ubuntu box using [Vagrant](https://www.vagrantup.com/) in conjunction with [Virtual Box](https://www.virtualbox.org/wiki/Downloads). 
