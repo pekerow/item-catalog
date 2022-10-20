@@ -1,9 +1,9 @@
 ## Item Catalog
 
 ## Use
-_Item Catalog_ is a RESTful web application written in Python that displays information about musical recordings in various genres. Users must be logged in to browse or alter the database. Once logged in, albums and even entire musical genres can be added or deleted. In this way the application demonstrates proficiency with OAuth 2.0 and also with CRUD operations on a database. Additionally, JSON endpoints are provided for data serialization--please see below for links.
+_Item Catalog_ is a RESTful web application written in Python that displays information about musical recordings in various genres. Users must be logged in to browse or alter the database. Once logged in, albums and even entire musical genres can be added or deleted. In this way the application demonstrates proficiency with OAuth 2.0 and also with CRUD operations on a database. SQLAlchemy was used to construct the database, and the Flask web development framework was employed to write template pages that the allow the user to interact with the database. The database engine is SQLlite. JSON endpoints are provided for data serialization--please see below for links.
 
-SQLAlchemy was used to construct the database, and the Flask web development framework was employed to write template pages that the allow the user to interact with the database. The database engine is SQLlite.
+NOTE: This is the development version of the application. The production version has a slightly different implementation; please see the [Catalog](https://github.com/pekerow/catalog) repo for details.
 
 ## Running the application
 
