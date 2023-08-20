@@ -7,7 +7,7 @@ NOTE: This is the development version of the application. The production version
 
 ## Running the application
 
-The version of _Item Catalog_ articulated below is for test use only on a local machine running a virtual Ubuntu 22.04 linux box. To get started please proceed as follows:
+This version of _Item Catalog is for use only on a local machine running a virtual Ubuntu 22.04 linux box. To get started please proceed as follows:
 
 * You will need a shell window. If you're on a Mac this is the command line utility. If on Windows 7 or later you will need to download [Git BASH](https://gitforwindows.org/).
 * In the shell you will run the a virtual Ubuntu box using [Vagrant](https://www.vagrantup.com/) in conjunction with [Virtual Box](https://www.virtualbox.org/wiki/Downloads). 
